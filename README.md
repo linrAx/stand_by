@@ -1,2 +1,1 @@
-# stand_by
-stand_by
+//LeetCode solution
